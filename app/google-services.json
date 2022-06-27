@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663857622032",
+    "firebase_url": "https://esp8266-arduino-2f497-default-rtdb.firebaseio.com",
+    "project_id": "esp8266-arduino-2f497",
+    "storage_bucket": "esp8266-arduino-2f497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663857622032:android:7b3d2c6b2471a4fb522e95",
+        "android_client_info": {
+          "package_name": "com.kerberos.esp8266"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663857622032-783h4s5ipj0l3qkii8st4j69176og1vl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYxxWTO1eyAAXmrwC4qSph0_4Nl3UAtxk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663857622032-783h4s5ipj0l3qkii8st4j69176og1vl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
