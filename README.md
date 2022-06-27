@@ -35,4 +35,3 @@
 This is the associative code for the [arduino code](https://github.com/whizydan/arduino-wifi-esp866) that retrieves sensor data and responds accordingly.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
